@@ -31,8 +31,8 @@ export const socials: Social[] = [
   {
     id: "email",
     label: "Email",
-    href: "mailto:chinecherem153@gmail.com",
+    href: "mailto:01chinecherem153@gmail.com",
     icon: "mail",
-    display: "chinecherem153@gmail.com",
+    display: "01chinecherem153@gmail.com",
   },
 ];
